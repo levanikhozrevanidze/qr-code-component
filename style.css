@@ -30,8 +30,9 @@ body {
 }
 
 .title {
+
     text-align: center;
-    margin: 20px 0;
+    padding: 20px 0;
     font-size: 1.3rem;
     color: hsl(218, 44%, 22%);
 }
